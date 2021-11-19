@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/github-page/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/github-page/static/js/main.0c28820f.chunk.js",
-    "main.js.map": "/github-page/static/js/main.0c28820f.chunk.js.map",
-    "runtime-main.js": "/github-page/static/js/runtime-main.043cc7fe.js",
-    "runtime-main.js.map": "/github-page/static/js/runtime-main.043cc7fe.js.map",
-    "static/js/2.c280b2aa.chunk.js": "/github-page/static/js/2.c280b2aa.chunk.js",
-    "static/js/2.c280b2aa.chunk.js.map": "/github-page/static/js/2.c280b2aa.chunk.js.map",
-    "static/js/3.e7e1fe5a.chunk.js": "/github-page/static/js/3.e7e1fe5a.chunk.js",
-    "static/js/3.e7e1fe5a.chunk.js.map": "/github-page/static/js/3.e7e1fe5a.chunk.js.map",
-    "index.html": "/github-page/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/github-page/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.c280b2aa.chunk.js.LICENSE.txt": "/github-page/static/js/2.c280b2aa.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/github-page/static/media/logo.6ce24c58.svg"
+    "main.css": "/Frexco/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Frexco/static/js/main.0c28820f.chunk.js",
+    "main.js.map": "/Frexco/static/js/main.0c28820f.chunk.js.map",
+    "runtime-main.js": "/Frexco/static/js/runtime-main.0cdae2c3.js",
+    "runtime-main.js.map": "/Frexco/static/js/runtime-main.0cdae2c3.js.map",
+    "static/js/2.c280b2aa.chunk.js": "/Frexco/static/js/2.c280b2aa.chunk.js",
+    "static/js/2.c280b2aa.chunk.js.map": "/Frexco/static/js/2.c280b2aa.chunk.js.map",
+    "static/js/3.e7e1fe5a.chunk.js": "/Frexco/static/js/3.e7e1fe5a.chunk.js",
+    "static/js/3.e7e1fe5a.chunk.js.map": "/Frexco/static/js/3.e7e1fe5a.chunk.js.map",
+    "index.html": "/Frexco/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Frexco/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c280b2aa.chunk.js.LICENSE.txt": "/Frexco/static/js/2.c280b2aa.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Frexco/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.043cc7fe.js",
+    "static/js/runtime-main.0cdae2c3.js",
     "static/js/2.c280b2aa.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.0c28820f.chunk.js"

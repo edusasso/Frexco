@@ -14,7 +14,7 @@ O projeto contém em seus arquivos os arquivos supracitados.
 
 Nas especificações do projeto, era necessário que o projeto rodasse na porta 80. Como podemos verificar no arquivo packege.json o arquivo roda na porta 80, nativa de aplicações de internet.
 
-## A aplicação está rodando nativamente no GIT.
+## `4. A aplicação está rodando nativamente no GIT.`
 
 Outra das especificações do projeto é que fosse disponibilizado no GIT para conferência das especificações.
 
